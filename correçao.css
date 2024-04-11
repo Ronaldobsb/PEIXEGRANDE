@@ -1,0 +1,93 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+/*  */
+
+#banner{
+    display: flex;
+
+}
+
+
+#banner1{
+    width: 30%;
+
+}
+
+#banner2.gif {
+    width: 70%;
+
+}
+#cabecalho{
+    height: 50px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: right;
+    background-color;
+    gap: 20px;
+
+    
+
+
+}
+
+a{
+    color: black;
+    text-decoration: none;
+    font-family:bold;}
+    /* margin: 0px 20px */
+
+#textos{
+    display: flex;
+
+
+}  
+
+.titulotexto{
+
+    background-color: black;
+    color: white;
+    padding: 10px.20px;
+
+}
+
+#textos p, #textos h5{
+
+}
+
+#servicos{
+    width: 70;
+
+}
+
+
+#agenda{
+    width: 25;
+
+
+}
+
+#mensagem p{
+    margin-left: 20px;
+
+}
+
+#rodape{
+    width: 100%;
+    padding: 10px 10px;
+    background-color: black;
+    color: white;
+}
+
+#rodape p{
+    margin-left: 20px;
+}
+
+#mapa{
+    padding: 5px 0px;
+    margin: 20px;
+    background-color:rgb(red, green, blue);
+}
