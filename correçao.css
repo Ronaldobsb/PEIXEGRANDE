@@ -3,21 +3,26 @@
     padding: 0%;
 }
 
-/*  */
+
 
 #banner{
-    display: flex;
+
+    justify-content: center;
+    
 
 }
 
 
 #banner1{
-    width: 30%;
+    width: 40%;
+    padding: 10%;
+    justify-content:flex-end;
 
 }
 
 #banner2.gif {
     width: 70%;
+    justify-content: end;
 
 }
 #cabecalho{
@@ -26,7 +31,6 @@
     display: flex;
     align-items: center;
     justify-content: right;
-    background-color;
     gap: 20px;
 
     
@@ -37,8 +41,10 @@
 a{
     color: black;
     text-decoration: none;
-    font-family:bold;}
-    /* margin: 0px 20px */
+    font-family:bold
+}
+
+    
 
 #textos{
     display: flex;
@@ -55,11 +61,12 @@ a{
 }
 
 #textos p, #textos h5{
+    width: 20px;
 
 }
 
 #servicos{
-    width: 70;
+    width: 70px;
 
 }
 
