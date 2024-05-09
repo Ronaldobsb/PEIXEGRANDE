@@ -41,9 +41,7 @@ p{
     color: white;
 }
 
-.servicos{
-    width: 40px;
-
+#testo{
     display: flex;
-    
+    justify-content: space-around;
 }

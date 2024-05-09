@@ -48,6 +48,7 @@ a{
 
 #textos{
     display: flex;
+    justify-content: space-around;
 
 
 }  
@@ -62,6 +63,7 @@ a{
 
 #textos p, #textos h5{
     width: 20px;
+    text-align: center;
 
 }
 
@@ -72,7 +74,7 @@ a{
 
 
 #agenda{
-    width: 25;
+    width: 25px;
 
 
 }
@@ -95,6 +97,6 @@ a{
 
 #mapa{
     padding: 5px 0px;
-    margin: 20px;
+    margin: 150px;
     background-color:rgb(red, green, blue);
 }
