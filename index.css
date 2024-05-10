@@ -36,7 +36,7 @@ p{
 
 .testos{
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     background-color: black;
     color: white;
 }

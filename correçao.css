@@ -48,7 +48,7 @@ a{
 
 #textos{
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
 
 
 }  
@@ -68,7 +68,7 @@ a{
 }
 
 #servicos{
-    width: 70px;
+    width: 200px;
 
 }
 
